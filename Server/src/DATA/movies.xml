@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vehicles>
+	<vehicle>
+		<id>2</id>
+		<name>44</name>
+		<coordinates>
+			<x>55</x>
+			<y>66.0</y>
+		</coordinates>
+		<creationDate>2024-05-31T17:55:52.680258500</creationDate>
+		<enginePower>3.0</enginePower>
+		<numberOfWheels>2</numberOfWheels>
+		<type>DRONE</type>
+		<fuelType>PLASMA</fuelType>
+	</vehicle>
+	<vehicle>
+		<id>3</id>
+		<name>1231233</name>
+		<coordinates>
+			<x>343443</x>
+			<y>555.0</y>
+		</coordinates>
+		<creationDate>2024-05-31T17:55:52.683948600</creationDate>
+		<enginePower>44.0</enginePower>
+		<numberOfWheels>4</numberOfWheels>
+		<type>DRONE</type>
+		<fuelType>PLASMA</fuelType>
+	</vehicle>
+</vehicles>
